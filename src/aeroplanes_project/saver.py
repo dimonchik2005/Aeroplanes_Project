@@ -42,7 +42,7 @@ class JSONSaver(AbstractSaver):
         try:
             with open(self.file_path, encoding="utf-8") as file:
                 data = json.load(file)
-        except (FileNotFoundError, json.JSONDecodeError):
+        except FileNotFoundError, json.JSONDecodeError:
             return []
 
         if not isinstance(data, list):
@@ -73,9 +73,7 @@ class JSONSaver(AbstractSaver):
             return data
 
         return [
-            aeroplane
-            for aeroplane in data
-            if aeroplane.get(field_name) == field_value
+            aeroplane for aeroplane in data if aeroplane.get(field_name) == field_value
         ]
 
     def delete_aeroplane(self, aeroplane: Aeroplane) -> None:

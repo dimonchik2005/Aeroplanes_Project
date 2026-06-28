@@ -1,3 +1,4 @@
+import pytest
 from abc import ABC, abstractmethod
 from typing import Any
 
@@ -29,7 +30,7 @@ class AeroplanesAPI(AbstractAPI):
         headers = {
             "User-Agent": "aeroplanes-project/1.0",
         }
-        params = {
+        params: dict[str, str | int] = {
             "country": country,
             "format": "json",
             "limit": 1,
@@ -59,7 +60,7 @@ class AeroplanesAPI(AbstractAPI):
         """Получает самолеты по координатам страны через OpenSky."""
         coordinates = self.get_country_coordinates(country)
 
-        params = {
+        params: dict[str, str] = {
             "lamin": coordinates[0],
             "lamax": coordinates[1],
             "lomin": coordinates[2],

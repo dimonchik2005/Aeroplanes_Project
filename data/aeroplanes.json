@@ -1,1 +1,2170 @@
-[]
+[
+    {
+        "icao24": "4acb23",
+        "callsign": "NSZ5023",
+        "origin_country": "Sweden",
+        "velocity": 204.14,
+        "altitude": 11277.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "46b831",
+        "callsign": "AEE2FL",
+        "origin_country": "Greece",
+        "velocity": 245.42,
+        "altitude": 8694.42,
+        "on_ground": false
+    },
+    {
+        "icao24": "4aca88",
+        "callsign": "NSZ60X",
+        "origin_country": "Sweden",
+        "velocity": 122.18,
+        "altitude": 1127.76,
+        "on_ground": false
+    },
+    {
+        "icao24": "4aca87",
+        "callsign": "NSZ278Y",
+        "origin_country": "Sweden",
+        "velocity": 267.56,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "407b55",
+        "callsign": "WUK76",
+        "origin_country": "United Kingdom",
+        "velocity": 217.52,
+        "altitude": 6606.54,
+        "on_ground": false
+    },
+    {
+        "icao24": "407b66",
+        "callsign": "GCLRW",
+        "origin_country": "United Kingdom",
+        "velocity": 55.85,
+        "altitude": 1447.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "4aca4a",
+        "callsign": "NSZ4EM",
+        "origin_country": "Sweden",
+        "velocity": 8.75,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4787b3",
+        "callsign": "NOZ1309",
+        "origin_country": "Norway",
+        "velocity": 246.82,
+        "altitude": 7818.12,
+        "on_ground": false
+    },
+    {
+        "icao24": "4787a0",
+        "callsign": "NOZ6PW",
+        "origin_country": "Norway",
+        "velocity": 6.43,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "738068",
+        "callsign": "ELY313",
+        "origin_country": "Israel",
+        "velocity": 68.9,
+        "altitude": 121.92,
+        "on_ground": false
+    },
+    {
+        "icao24": "440065",
+        "callsign": "EJU84DF",
+        "origin_country": "Austria",
+        "velocity": 2.31,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "3453c3",
+        "callsign": "VLG343A",
+        "origin_country": "Spain",
+        "velocity": 5.66,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "405631",
+        "callsign": "EZY461R",
+        "origin_country": "United Kingdom",
+        "velocity": 246.62,
+        "altitude": 10980.42,
+        "on_ground": false
+    },
+    {
+        "icao24": "40690d",
+        "callsign": "EZY595R",
+        "origin_country": "United Kingdom",
+        "velocity": 68.78,
+        "altitude": 106.68,
+        "on_ground": false
+    },
+    {
+        "icao24": "440172",
+        "callsign": "EJU12DQ",
+        "origin_country": "Austria",
+        "velocity": 67.41,
+        "altitude": 358.14,
+        "on_ground": false
+    },
+    {
+        "icao24": "47873f",
+        "callsign": "NOZ1356",
+        "origin_country": "Norway",
+        "velocity": 3.86,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "300a87",
+        "callsign": "ITY224",
+        "origin_country": "Italy",
+        "velocity": 183.56,
+        "altitude": 3619.5,
+        "on_ground": false
+    },
+    {
+        "icao24": "471db4",
+        "callsign": "WZZ254A",
+        "origin_country": "Hungary",
+        "velocity": 173.0,
+        "altitude": 5577.84,
+        "on_ground": false
+    },
+    {
+        "icao24": "345642",
+        "callsign": "VLG8473",
+        "origin_country": "Spain",
+        "velocity": 10.8,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4079d0",
+        "callsign": "CFE65GM",
+        "origin_country": "United Kingdom",
+        "velocity": 1.29,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "406753",
+        "callsign": "EZY82FZ",
+        "origin_country": "United Kingdom",
+        "velocity": 210.06,
+        "altitude": 10035.54,
+        "on_ground": false
+    },
+    {
+        "icao24": "406755",
+        "callsign": "EZY76HZ",
+        "origin_country": "United Kingdom",
+        "velocity": 242.14,
+        "altitude": 11277.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "80073e",
+        "callsign": "AIC118",
+        "origin_country": "India",
+        "velocity": 167.95,
+        "altitude": 3985.26,
+        "on_ground": false
+    },
+    {
+        "icao24": "4bb107",
+        "callsign": "THY29M",
+        "origin_country": "Turkey",
+        "velocity": 275.05,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4bb105",
+        "callsign": "THY9PG",
+        "origin_country": "Turkey",
+        "velocity": 163.56,
+        "altitude": 5356.86,
+        "on_ground": false
+    },
+    {
+        "icao24": "4067f7",
+        "callsign": "TOM87C",
+        "origin_country": "United Kingdom",
+        "velocity": 91.11,
+        "altitude": 1303.02,
+        "on_ground": false
+    },
+    {
+        "icao24": "3475d4",
+        "callsign": "LVL274V",
+        "origin_country": "Spain",
+        "velocity": 221.17,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4077c6",
+        "callsign": "HLE05",
+        "origin_country": "United Kingdom",
+        "velocity": 58.62,
+        "altitude": 716.28,
+        "on_ground": false
+    },
+    {
+        "icao24": "40787a",
+        "callsign": "TOM989P",
+        "origin_country": "United Kingdom",
+        "velocity": 148.96,
+        "altitude": 3657.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "484c24",
+        "callsign": "KLM90N",
+        "origin_country": "Kingdom of the Netherlands",
+        "velocity": 212.29,
+        "altitude": 5341.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "740823",
+        "callsign": "RJA282",
+        "origin_country": "Jordan",
+        "velocity": 262.62,
+        "altitude": 11887.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "406542",
+        "callsign": "EZY41UF",
+        "origin_country": "United Kingdom",
+        "velocity": 0.45,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "406544",
+        "callsign": "EZY63CT",
+        "origin_country": "United Kingdom",
+        "velocity": 224.08,
+        "altitude": 10972.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "a606e4",
+        "callsign": "LXJ488",
+        "origin_country": "United States",
+        "velocity": 249.62,
+        "altitude": 12496.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "400f99",
+        "callsign": "BAW352",
+        "origin_country": "United Kingdom",
+        "velocity": 206.19,
+        "altitude": 10668.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "4063c3",
+        "callsign": "CFE98MN",
+        "origin_country": "United Kingdom",
+        "velocity": 189.47,
+        "altitude": 4419.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "4076e8",
+        "callsign": "BAW2MW",
+        "origin_country": "United Kingdom",
+        "velocity": 265.86,
+        "altitude": 10972.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "3c48ee",
+        "callsign": "EWG8GJ",
+        "origin_country": "Germany",
+        "velocity": 5.66,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4078a4",
+        "callsign": "UKP154",
+        "origin_country": "United Kingdom",
+        "velocity": 1.03,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "43bfe4",
+        "callsign": "Unknown",
+        "origin_country": "United Kingdom",
+        "velocity": 2.31,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "43bfef",
+        "callsign": "Unknown",
+        "origin_country": "United Kingdom",
+        "velocity": 4.12,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "40666a",
+        "callsign": "EZY52JX",
+        "origin_country": "United Kingdom",
+        "velocity": 157.38,
+        "altitude": 3246.12,
+        "on_ground": false
+    },
+    {
+        "icao24": "406674",
+        "callsign": "BAW9MS",
+        "origin_country": "United Kingdom",
+        "velocity": 228.18,
+        "altitude": 7010.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "43bff0",
+        "callsign": "LEADER 5",
+        "origin_country": "United Kingdom",
+        "velocity": 18.52,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "40792e",
+        "callsign": "BAW970",
+        "origin_country": "United Kingdom",
+        "velocity": 164.07,
+        "altitude": 3055.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "407997",
+        "callsign": "LDG48",
+        "origin_country": "United Kingdom",
+        "velocity": 42.26,
+        "altitude": 883.92,
+        "on_ground": false
+    },
+    {
+        "icao24": "407981",
+        "callsign": "LOG2WF",
+        "origin_country": "United Kingdom",
+        "velocity": 2.06,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "40796e",
+        "callsign": "EXS17FS",
+        "origin_country": "United Kingdom",
+        "velocity": 120.09,
+        "altitude": 1135.38,
+        "on_ground": false
+    },
+    {
+        "icao24": "a3ca43",
+        "callsign": "UPS205",
+        "origin_country": "United States",
+        "velocity": 267.72,
+        "altitude": 11285.22,
+        "on_ground": false
+    },
+    {
+        "icao24": "c2b3f5",
+        "callsign": "CFC3681",
+        "origin_country": "Canada",
+        "velocity": 239.58,
+        "altitude": 10668.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "400fe0",
+        "callsign": "EZY98AE",
+        "origin_country": "United Kingdom",
+        "velocity": 0.26,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4d00d8",
+        "callsign": "LGL4L",
+        "origin_country": "Luxembourg",
+        "velocity": 1.03,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "ac6d0c",
+        "callsign": "N90CG",
+        "origin_country": "United States",
+        "velocity": 260.31,
+        "altitude": 12496.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca566",
+        "callsign": "RYR5PU",
+        "origin_country": "Ireland",
+        "velocity": 135.65,
+        "altitude": 3162.3,
+        "on_ground": false
+    },
+    {
+        "icao24": "406de6",
+        "callsign": "SRG199",
+        "origin_country": "United Kingdom",
+        "velocity": 87.26,
+        "altitude": 647.7,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca585",
+        "callsign": "EIHUM",
+        "origin_country": "Ireland",
+        "velocity": 56.32,
+        "altitude": 563.88,
+        "on_ground": false
+    },
+    {
+        "icao24": "406fda",
+        "callsign": "EZY79WM",
+        "origin_country": "United Kingdom",
+        "velocity": 185.76,
+        "altitude": 7924.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "502cc6",
+        "callsign": "ASL96U",
+        "origin_country": "Latvia",
+        "velocity": 199.02,
+        "altitude": 6499.86,
+        "on_ground": false
+    },
+    {
+        "icao24": "39ae32",
+        "callsign": "BEJ17S",
+        "origin_country": "France",
+        "velocity": 88.48,
+        "altitude": 746.76,
+        "on_ground": false
+    },
+    {
+        "icao24": "406ecc",
+        "callsign": "VIR354",
+        "origin_country": "United Kingdom",
+        "velocity": 170.24,
+        "altitude": 3208.02,
+        "on_ground": false
+    },
+    {
+        "icao24": "406d95",
+        "callsign": "EZY54KC",
+        "origin_country": "United Kingdom",
+        "velocity": 249.48,
+        "altitude": 10728.96,
+        "on_ground": false
+    },
+    {
+        "icao24": "39bdae",
+        "callsign": "AFR1886",
+        "origin_country": "France",
+        "velocity": 57.44,
+        "altitude": 335.28,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca2ad",
+        "callsign": "RYR60SF",
+        "origin_country": "Ireland",
+        "velocity": 245.6,
+        "altitude": 10972.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ba955",
+        "callsign": "THY11",
+        "origin_country": "Turkey",
+        "velocity": 264.58,
+        "altitude": 10363.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "407eec",
+        "callsign": "EZY82KL",
+        "origin_country": "United Kingdom",
+        "velocity": 200.94,
+        "altitude": 5410.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "c06590",
+        "callsign": "ACA868",
+        "origin_country": "Canada",
+        "velocity": 116.86,
+        "altitude": 1531.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "406e65",
+        "callsign": "EZY128H",
+        "origin_country": "United Kingdom",
+        "velocity": 87.21,
+        "altitude": 830.58,
+        "on_ground": false
+    },
+    {
+        "icao24": "406e10",
+        "callsign": "VIR11B",
+        "origin_country": "United Kingdom",
+        "velocity": 231.56,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca242",
+        "callsign": "RYR4EB",
+        "origin_country": "Ireland",
+        "velocity": 143.69,
+        "altitude": 1295.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca281",
+        "callsign": "EIN27T",
+        "origin_country": "Ireland",
+        "velocity": 227.1,
+        "altitude": 7010.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca27c",
+        "callsign": "RYR16AJ",
+        "origin_country": "Ireland",
+        "velocity": 208.45,
+        "altitude": 11277.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca25b",
+        "callsign": "RYR8KX",
+        "origin_country": "Ireland",
+        "velocity": 179.06,
+        "altitude": 5684.52,
+        "on_ground": false
+    },
+    {
+        "icao24": "406b6c",
+        "callsign": "CFE736",
+        "origin_country": "United Kingdom",
+        "velocity": 137.1,
+        "altitude": 1417.32,
+        "on_ground": false
+    },
+    {
+        "icao24": "407e82",
+        "callsign": "RUK4Q",
+        "origin_country": "United Kingdom",
+        "velocity": 1.54,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "39ceb4",
+        "callsign": "TVF73QA",
+        "origin_country": "France",
+        "velocity": 241.91,
+        "altitude": 11247.12,
+        "on_ground": false
+    },
+    {
+        "icao24": "407e32",
+        "callsign": "EAG7FT",
+        "origin_country": "United Kingdom",
+        "velocity": 132.73,
+        "altitude": 4267.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "406b13",
+        "callsign": "TOM1CD",
+        "origin_country": "United Kingdom",
+        "velocity": 235.31,
+        "altitude": 11879.58,
+        "on_ground": false
+    },
+    {
+        "icao24": "407cf7",
+        "callsign": "DHK052",
+        "origin_country": "United Kingdom",
+        "velocity": 131.49,
+        "altitude": 2423.16,
+        "on_ground": false
+    },
+    {
+        "icao24": "48c1a1",
+        "callsign": "RYR99NN",
+        "origin_country": "Poland",
+        "velocity": 183.91,
+        "altitude": 6659.88,
+        "on_ground": false
+    },
+    {
+        "icao24": "3949f9",
+        "callsign": "AFR012",
+        "origin_country": "France",
+        "velocity": 251.64,
+        "altitude": 10972.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "407cb0",
+        "callsign": "RUK178",
+        "origin_country": "United Kingdom",
+        "velocity": 0.64,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4010e9",
+        "callsign": "EZY879U",
+        "origin_country": "United Kingdom",
+        "velocity": 255.72,
+        "altitude": 7665.72,
+        "on_ground": false
+    },
+    {
+        "icao24": "407f42",
+        "callsign": "EAG18C",
+        "origin_country": "United Kingdom",
+        "velocity": 135.66,
+        "altitude": 1684.02,
+        "on_ground": false
+    },
+    {
+        "icao24": "407f38",
+        "callsign": "EXS82T",
+        "origin_country": "United Kingdom",
+        "velocity": 207.28,
+        "altitude": 11269.98,
+        "on_ground": false
+    },
+    {
+        "icao24": "407f8c",
+        "callsign": "EXS2JT",
+        "origin_country": "United Kingdom",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "407f7a",
+        "callsign": "EZY79RA",
+        "origin_country": "United Kingdom",
+        "velocity": 189.34,
+        "altitude": 7498.08,
+        "on_ground": false
+    },
+    {
+        "icao24": "407f85",
+        "callsign": "LOG65KL",
+        "origin_country": "United Kingdom",
+        "velocity": 51.96,
+        "altitude": 304.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "407f60",
+        "callsign": "EZY49JL",
+        "origin_country": "United Kingdom",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "48c2b9",
+        "callsign": "RYR9KA",
+        "origin_country": "Poland",
+        "velocity": 237.13,
+        "altitude": 8321.04,
+        "on_ground": false
+    },
+    {
+        "icao24": "48c2b0",
+        "callsign": "RYR51RE",
+        "origin_country": "Poland",
+        "velocity": 194.59,
+        "altitude": 5905.5,
+        "on_ground": false
+    },
+    {
+        "icao24": "a2551a",
+        "callsign": "UAL122",
+        "origin_country": "United States",
+        "velocity": 141.7,
+        "altitude": 2103.12,
+        "on_ground": false
+    },
+    {
+        "icao24": "48c125",
+        "callsign": "RYR7LM",
+        "origin_country": "Poland",
+        "velocity": 252.63,
+        "altitude": 11277.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "440488",
+        "callsign": "EJU42DL",
+        "origin_country": "Austria",
+        "velocity": 164.0,
+        "altitude": 3436.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "440481",
+        "callsign": "AOJ79E",
+        "origin_country": "Austria",
+        "velocity": 223.08,
+        "altitude": 7612.38,
+        "on_ground": false
+    },
+    {
+        "icao24": "407ad7",
+        "callsign": "GMADX",
+        "origin_country": "United Kingdom",
+        "velocity": 51.26,
+        "altitude": 114.3,
+        "on_ground": false
+    },
+    {
+        "icao24": "06a1ea",
+        "callsign": "QTR8261",
+        "origin_country": "Qatar",
+        "velocity": 230.72,
+        "altitude": 10972.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "344698",
+        "callsign": "VLG9MB",
+        "origin_country": "Spain",
+        "velocity": 22.64,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "504e84",
+        "callsign": "FIA5617",
+        "origin_country": "Republic of Moldova",
+        "velocity": 195.83,
+        "altitude": 5455.92,
+        "on_ground": false
+    },
+    {
+        "icao24": "406a3e",
+        "callsign": "SHT5T",
+        "origin_country": "United Kingdom",
+        "velocity": 66.37,
+        "altitude": 0.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "407d75",
+        "callsign": "SHT14P",
+        "origin_country": "United Kingdom",
+        "velocity": 189.11,
+        "altitude": 7010.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "407bde",
+        "callsign": "EAG49B",
+        "origin_country": "United Kingdom",
+        "velocity": 94.31,
+        "altitude": 1059.18,
+        "on_ground": false
+    },
+    {
+        "icao24": "407bdc",
+        "callsign": "RUK82VC",
+        "origin_country": "United Kingdom",
+        "velocity": 221.02,
+        "altitude": 7376.16,
+        "on_ground": false
+    },
+    {
+        "icao24": "407bdd",
+        "callsign": "EAG79A",
+        "origin_country": "United Kingdom",
+        "velocity": 120.65,
+        "altitude": 1836.42,
+        "on_ground": false
+    },
+    {
+        "icao24": "06a0e8",
+        "callsign": "QTR57H",
+        "origin_country": "Qatar",
+        "velocity": 278.34,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "06a0dd",
+        "callsign": "QTR8U",
+        "origin_country": "Qatar",
+        "velocity": 273.6,
+        "altitude": 9753.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "06a0ea",
+        "callsign": "Unknown",
+        "origin_country": "Qatar",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "403500",
+        "callsign": "GBTVX",
+        "origin_country": "United Kingdom",
+        "velocity": 50.28,
+        "altitude": 579.12,
+        "on_ground": false
+    },
+    {
+        "icao24": "408111",
+        "callsign": "LOG25JD",
+        "origin_country": "United Kingdom",
+        "velocity": 127.4,
+        "altitude": 3360.42,
+        "on_ground": false
+    },
+    {
+        "icao24": "4952cc",
+        "callsign": "TAP1369",
+        "origin_country": "Portugal",
+        "velocity": 130.57,
+        "altitude": 1935.48,
+        "on_ground": false
+    },
+    {
+        "icao24": "4952c9",
+        "callsign": "TAP67NP",
+        "origin_country": "Portugal",
+        "velocity": 264.81,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4b180b",
+        "callsign": "SWR448G",
+        "origin_country": "Switzerland",
+        "velocity": 241.59,
+        "altitude": 11277.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "408134",
+        "callsign": "BAW397",
+        "origin_country": "United Kingdom",
+        "velocity": 238.17,
+        "altitude": 11201.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "3c65cb",
+        "callsign": "DLH9HX",
+        "origin_country": "Germany",
+        "velocity": 153.45,
+        "altitude": 4320.54,
+        "on_ground": false
+    },
+    {
+        "icao24": "408087",
+        "callsign": "LOG23PY",
+        "origin_country": "United Kingdom",
+        "velocity": 137.83,
+        "altitude": 3352.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "408053",
+        "callsign": "EZY39MG",
+        "origin_country": "United Kingdom",
+        "velocity": 169.1,
+        "altitude": 4754.88,
+        "on_ground": false
+    },
+    {
+        "icao24": "440cbf",
+        "callsign": "Unknown",
+        "origin_country": "Austria",
+        "velocity": 0.45,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4008b1",
+        "callsign": "BAW73B",
+        "origin_country": "United Kingdom",
+        "velocity": 174.87,
+        "altitude": 6271.26,
+        "on_ground": false
+    },
+    {
+        "icao24": "40822e",
+        "callsign": "BAW878",
+        "origin_country": "United Kingdom",
+        "velocity": 244.16,
+        "altitude": 7277.1,
+        "on_ground": false
+    },
+    {
+        "icao24": "408262",
+        "callsign": "EXS1LU",
+        "origin_country": "United Kingdom",
+        "velocity": 77.05,
+        "altitude": 457.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "3c654e",
+        "callsign": "LHX1MY",
+        "origin_country": "Germany",
+        "velocity": 116.81,
+        "altitude": 2407.92,
+        "on_ground": false
+    },
+    {
+        "icao24": "4a2aac",
+        "callsign": "DNA507",
+        "origin_country": "Romania",
+        "velocity": 108.68,
+        "altitude": 899.16,
+        "on_ground": false
+    },
+    {
+        "icao24": "39e694",
+        "callsign": "AFR59MN",
+        "origin_country": "France",
+        "velocity": 204.88,
+        "altitude": 9342.12,
+        "on_ground": false
+    },
+    {
+        "icao24": "4080f7",
+        "callsign": "EZY152M",
+        "origin_country": "United Kingdom",
+        "velocity": 210.08,
+        "altitude": 6355.08,
+        "on_ground": false
+    },
+    {
+        "icao24": "4009c6",
+        "callsign": "BAW87PC",
+        "origin_country": "United Kingdom",
+        "velocity": 149.75,
+        "altitude": 1767.84,
+        "on_ground": false
+    },
+    {
+        "icao24": "408181",
+        "callsign": "EZY58QB",
+        "origin_country": "United Kingdom",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "40816f",
+        "callsign": "HLE09",
+        "origin_country": "United Kingdom",
+        "velocity": 52.57,
+        "altitude": 312.42,
+        "on_ground": false
+    },
+    {
+        "icao24": "4009da",
+        "callsign": "BAW617",
+        "origin_country": "United Kingdom",
+        "velocity": 90.03,
+        "altitude": 762.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "400880",
+        "callsign": "LOG22N",
+        "origin_country": "United Kingdom",
+        "velocity": 136.84,
+        "altitude": 2461.26,
+        "on_ground": false
+    },
+    {
+        "icao24": "404ed0",
+        "callsign": "GCDSC",
+        "origin_country": "United Kingdom",
+        "velocity": 44.4,
+        "altitude": 449.58,
+        "on_ground": false
+    },
+    {
+        "icao24": "4b1699",
+        "callsign": "SWR122C",
+        "origin_country": "Switzerland",
+        "velocity": 253.11,
+        "altitude": 7421.88,
+        "on_ground": false
+    },
+    {
+        "icao24": "40080f",
+        "callsign": "LOG6LG",
+        "origin_country": "United Kingdom",
+        "velocity": 221.11,
+        "altitude": 10363.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "400804",
+        "callsign": "SHT9Y",
+        "origin_country": "United Kingdom",
+        "velocity": 214.84,
+        "altitude": 10675.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "4b027c",
+        "callsign": "EZS16QR",
+        "origin_country": "Switzerland",
+        "velocity": 1.29,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4b028f",
+        "callsign": "SWR9MY",
+        "origin_country": "Switzerland",
+        "velocity": 240.02,
+        "altitude": 9570.72,
+        "on_ground": false
+    },
+    {
+        "icao24": "4951d4",
+        "callsign": "TAP1330",
+        "origin_country": "Portugal",
+        "velocity": 5.14,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "408000",
+        "callsign": "EZY48FE",
+        "origin_country": "United Kingdom",
+        "velocity": 94.45,
+        "altitude": 975.36,
+        "on_ground": false
+    },
+    {
+        "icao24": "408027",
+        "callsign": "TOM23M",
+        "origin_country": "United Kingdom",
+        "velocity": 235.11,
+        "altitude": 10972.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "440d6f",
+        "callsign": "EJU36BG",
+        "origin_country": "Austria",
+        "velocity": 0.64,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "40092b",
+        "callsign": "LOG539B",
+        "origin_country": "United Kingdom",
+        "velocity": 135.86,
+        "altitude": 2438.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4007da",
+        "callsign": "LOG7J",
+        "origin_country": "United Kingdom",
+        "velocity": 217.12,
+        "altitude": 7299.96,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca9d1",
+        "callsign": "RYR22KC",
+        "origin_country": "Ireland",
+        "velocity": 207.46,
+        "altitude": 8839.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca9bb",
+        "callsign": "EIN139",
+        "origin_country": "Ireland",
+        "velocity": 207.86,
+        "altitude": 9753.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca9eb",
+        "callsign": "RYR683W",
+        "origin_country": "Ireland",
+        "velocity": 233.44,
+        "altitude": 10972.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca9cf",
+        "callsign": "RYR96GG",
+        "origin_country": "Ireland",
+        "velocity": 176.16,
+        "altitude": 5775.96,
+        "on_ground": false
+    },
+    {
+        "icao24": "a7fc7f",
+        "callsign": "N61318",
+        "origin_country": "United States",
+        "velocity": 231.3,
+        "altitude": 13106.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca8d5",
+        "callsign": "RYR68BJ",
+        "origin_country": "Ireland",
+        "velocity": 168.83,
+        "altitude": 4030.98,
+        "on_ground": false
+    },
+    {
+        "icao24": "400795",
+        "callsign": "LOG9LB",
+        "origin_country": "United Kingdom",
+        "velocity": 236.54,
+        "altitude": 10058.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca84d",
+        "callsign": "RYR31FW",
+        "origin_country": "Ireland",
+        "velocity": 0.64,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "45d022",
+        "callsign": "MMD6048",
+        "origin_country": "Denmark",
+        "velocity": 252.62,
+        "altitude": 13716.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca852",
+        "callsign": "RYR8NZ",
+        "origin_country": "Ireland",
+        "velocity": 163.83,
+        "altitude": 4175.76,
+        "on_ground": false
+    },
+    {
+        "icao24": "4005bf",
+        "callsign": "BAW183",
+        "origin_country": "United Kingdom",
+        "velocity": 236.69,
+        "altitude": 10972.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca6aa",
+        "callsign": "RYR80JR",
+        "origin_country": "Ireland",
+        "velocity": 80.58,
+        "altitude": 320.04,
+        "on_ground": false
+    },
+    {
+        "icao24": "88812b",
+        "callsign": "HVN56",
+        "origin_country": "Viet Nam",
+        "velocity": 211.89,
+        "altitude": 4191.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "4002b4",
+        "callsign": "TCJ05",
+        "origin_country": "United Kingdom",
+        "velocity": 281.42,
+        "altitude": 13716.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca73e",
+        "callsign": "RYR58WK",
+        "origin_country": "Ireland",
+        "velocity": 215.69,
+        "altitude": 7040.88,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca73a",
+        "callsign": "RYR299H",
+        "origin_country": "Ireland",
+        "velocity": 13.89,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "491d89",
+        "callsign": "NJE368H",
+        "origin_country": "Portugal",
+        "velocity": 52.16,
+        "altitude": 53.34,
+        "on_ground": false
+    },
+    {
+        "icao24": "404bc5",
+        "callsign": "GCIBO",
+        "origin_country": "United Kingdom",
+        "velocity": 2.57,
+        "altitude": 0.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca700",
+        "callsign": "RYR31EK",
+        "origin_country": "Ireland",
+        "velocity": 133.28,
+        "altitude": 3093.72,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca640",
+        "callsign": "EIN65T",
+        "origin_country": "Ireland",
+        "velocity": 213.53,
+        "altitude": 10363.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "4bccb0",
+        "callsign": "SXS6WB",
+        "origin_country": "Turkey",
+        "velocity": 226.55,
+        "altitude": 11887.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ca625",
+        "callsign": "RYR70SV",
+        "origin_country": "Ireland",
+        "velocity": 171.62,
+        "altitude": 4053.84,
+        "on_ground": false
+    },
+    {
+        "icao24": "4bccad",
+        "callsign": "SXS75H",
+        "origin_country": "Turkey",
+        "velocity": 231.71,
+        "altitude": 8572.5,
+        "on_ground": false
+    },
+    {
+        "icao24": "40505f",
+        "callsign": "GCEDX",
+        "origin_country": "United Kingdom",
+        "velocity": 45.27,
+        "altitude": 495.3,
+        "on_ground": false
+    },
+    {
+        "icao24": "4075a2",
+        "callsign": "CFE1LJ",
+        "origin_country": "United Kingdom",
+        "velocity": 5.92,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "400e13",
+        "callsign": "EZY21BP",
+        "origin_country": "United Kingdom",
+        "velocity": 190.78,
+        "altitude": 7018.02,
+        "on_ground": false
+    },
+    {
+        "icao24": "4ab483",
+        "callsign": "LOG584",
+        "origin_country": "Sweden",
+        "velocity": 142.28,
+        "altitude": 3543.3,
+        "on_ground": false
+    },
+    {
+        "icao24": "346184",
+        "callsign": "VLG75CT",
+        "origin_country": "Spain",
+        "velocity": 252.36,
+        "altitude": 7536.18,
+        "on_ground": false
+    },
+    {
+        "icao24": "400cd8",
+        "callsign": "EZY131X",
+        "origin_country": "United Kingdom",
+        "velocity": 272.44,
+        "altitude": 10347.96,
+        "on_ground": false
+    },
+    {
+        "icao24": "407687",
+        "callsign": "EZY84WG",
+        "origin_country": "United Kingdom",
+        "velocity": 197.5,
+        "altitude": 11612.88,
+        "on_ground": false
+    },
+    {
+        "icao24": "407688",
+        "callsign": "EZY13MJ",
+        "origin_country": "United Kingdom",
+        "velocity": 4.37,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "400d5a",
+        "callsign": "SHT4YL",
+        "origin_country": "United Kingdom",
+        "velocity": 240.82,
+        "altitude": 11559.54,
+        "on_ground": false
+    },
+    {
+        "icao24": "4074b2",
+        "callsign": "EZY86VQ",
+        "origin_country": "United Kingdom",
+        "velocity": 156.67,
+        "altitude": 2903.22,
+        "on_ground": false
+    },
+    {
+        "icao24": "3964ee",
+        "callsign": "TVF7929",
+        "origin_country": "France",
+        "velocity": 215.38,
+        "altitude": 11399.52,
+        "on_ground": false
+    },
+    {
+        "icao24": "407793",
+        "callsign": "EZY97CB",
+        "origin_country": "United Kingdom",
+        "velocity": 115.18,
+        "altitude": 2682.24,
+        "on_ground": false
+    },
+    {
+        "icao24": "40643b",
+        "callsign": "EZY47QN",
+        "origin_country": "United Kingdom",
+        "velocity": 141.87,
+        "altitude": 1539.24,
+        "on_ground": false
+    },
+    {
+        "icao24": "406440",
+        "callsign": "EZY64JW",
+        "origin_country": "United Kingdom",
+        "velocity": 241.64,
+        "altitude": 11239.5,
+        "on_ground": false
+    },
+    {
+        "icao24": "346316",
+        "callsign": "IBE07HA",
+        "origin_country": "Spain",
+        "velocity": 179.69,
+        "altitude": 8282.94,
+        "on_ground": false
+    },
+    {
+        "icao24": "010296",
+        "callsign": "MSR779",
+        "origin_country": "Egypt",
+        "velocity": 75.11,
+        "altitude": 22.86,
+        "on_ground": false
+    },
+    {
+        "icao24": "40773b",
+        "callsign": "Unknown",
+        "origin_country": "United Kingdom",
+        "velocity": 4.12,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "40772e",
+        "callsign": "EZY27DV",
+        "origin_country": "United Kingdom",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "407719",
+        "callsign": "EDC218E",
+        "origin_country": "United Kingdom",
+        "velocity": 191.71,
+        "altitude": 5082.54,
+        "on_ground": false
+    },
+    {
+        "icao24": "4075e0",
+        "callsign": "EZY61CD",
+        "origin_country": "United Kingdom",
+        "velocity": 207.11,
+        "altitude": 10172.7,
+        "on_ground": false
+    },
+    {
+        "icao24": "400e5a",
+        "callsign": "EZY96QE",
+        "origin_country": "United Kingdom",
+        "velocity": 8.23,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "39a203",
+        "callsign": "FPO7NN",
+        "origin_country": "France",
+        "velocity": 170.02,
+        "altitude": 4602.48,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2518",
+        "callsign": "RYR7DP",
+        "origin_country": "",
+        "velocity": 197.72,
+        "altitude": 3581.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2519",
+        "callsign": "RYR69CY",
+        "origin_country": "",
+        "velocity": 238.33,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caead",
+        "callsign": "EAI3RG",
+        "origin_country": "Ireland",
+        "velocity": 121.04,
+        "altitude": 3048.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d250b",
+        "callsign": "WMT6039",
+        "origin_country": "",
+        "velocity": 165.39,
+        "altitude": 3154.68,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2502",
+        "callsign": "RYR39EV",
+        "origin_country": "",
+        "velocity": 248.46,
+        "altitude": 9220.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "407463",
+        "callsign": "SHT2N",
+        "origin_country": "United Kingdom",
+        "velocity": 3.34,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "aac32f",
+        "callsign": "N793AE",
+        "origin_country": "United States",
+        "velocity": 184.73,
+        "altitude": 4876.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caf34",
+        "callsign": "RYR6GE",
+        "origin_country": "Ireland",
+        "velocity": 60.46,
+        "altitude": 160.02,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caf09",
+        "callsign": "RSQ118",
+        "origin_country": "Ireland",
+        "velocity": 81.81,
+        "altitude": 579.12,
+        "on_ground": false
+    },
+    {
+        "icao24": "400b83",
+        "callsign": "BAW309",
+        "origin_country": "United Kingdom",
+        "velocity": 63.79,
+        "altitude": 0.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caf16",
+        "callsign": "SAS2550",
+        "origin_country": "Ireland",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4072dc",
+        "callsign": "EXS3GP",
+        "origin_country": "United Kingdom",
+        "velocity": 172.73,
+        "altitude": 3398.52,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caf7e",
+        "callsign": "SAS2808",
+        "origin_country": "Ireland",
+        "velocity": 273.18,
+        "altitude": 11384.28,
+        "on_ground": false
+    },
+    {
+        "icao24": "400b4b",
+        "callsign": "DHK304",
+        "origin_country": "United Kingdom",
+        "velocity": 257.62,
+        "altitude": 10058.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2406",
+        "callsign": "EWG474",
+        "origin_country": "",
+        "velocity": 67.41,
+        "altitude": 213.36,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2433",
+        "callsign": "WMT1MS",
+        "origin_country": "",
+        "velocity": 250.74,
+        "altitude": 10325.1,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cadc3",
+        "callsign": "RYR7PG",
+        "origin_country": "Ireland",
+        "velocity": 219.03,
+        "altitude": 11277.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2477",
+        "callsign": "EWG91V",
+        "origin_country": "",
+        "velocity": 251.33,
+        "altitude": 10058.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cadfe",
+        "callsign": "RYR72PP",
+        "origin_country": "Ireland",
+        "velocity": 136.13,
+        "altitude": 2065.02,
+        "on_ground": false
+    },
+    {
+        "icao24": "407536",
+        "callsign": "BAW910N",
+        "origin_country": "United Kingdom",
+        "velocity": 147.13,
+        "altitude": 1760.22,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cade5",
+        "callsign": "RYR533D",
+        "origin_country": "Ireland",
+        "velocity": 214.72,
+        "altitude": 8298.18,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d244b",
+        "callsign": "RYR3YD",
+        "origin_country": "",
+        "velocity": 172.82,
+        "altitude": 7315.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "40756f",
+        "callsign": "EZY79PL",
+        "origin_country": "United Kingdom",
+        "velocity": 120.61,
+        "altitude": 2423.16,
+        "on_ground": false
+    },
+    {
+        "icao24": "40756c",
+        "callsign": "EZY473T",
+        "origin_country": "United Kingdom",
+        "velocity": 152.61,
+        "altitude": 4876.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "407575",
+        "callsign": "EZY316H",
+        "origin_country": "United Kingdom",
+        "velocity": 238.33,
+        "altitude": 9890.76,
+        "on_ground": false
+    },
+    {
+        "icao24": "406231",
+        "callsign": "CFE557",
+        "origin_country": "United Kingdom",
+        "velocity": 131.01,
+        "altitude": 1661.16,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cae51",
+        "callsign": "RYR7GD",
+        "origin_country": "Ireland",
+        "velocity": 12.86,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4cae33",
+        "callsign": "EIN109",
+        "origin_country": "Ireland",
+        "velocity": 212.08,
+        "altitude": 8534.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cae8d",
+        "callsign": "RYR2WU",
+        "origin_country": "Ireland",
+        "velocity": 209.61,
+        "altitude": 8252.46,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cae61",
+        "callsign": "RYR10MA",
+        "origin_country": "Ireland",
+        "velocity": 249.26,
+        "altitude": 9319.26,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d22b3",
+        "callsign": "RYR13CQ",
+        "origin_country": "Malta",
+        "velocity": 68.07,
+        "altitude": 83.82,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cae4b",
+        "callsign": "RYR59DR",
+        "origin_country": "Ireland",
+        "velocity": 225.25,
+        "altitude": 6751.32,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cae4c",
+        "callsign": "RYR7RJ",
+        "origin_country": "Ireland",
+        "velocity": 210.15,
+        "altitude": 11277.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cae6a",
+        "callsign": "RYR82ZE",
+        "origin_country": "Ireland",
+        "velocity": 176.18,
+        "altitude": 3329.94,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d22bb",
+        "callsign": "RYR14GC",
+        "origin_country": "Malta",
+        "velocity": 196.98,
+        "altitude": 4579.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2300",
+        "callsign": "RYR9523",
+        "origin_country": "Malta",
+        "velocity": 159.81,
+        "altitude": 2682.24,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2350",
+        "callsign": "RYR2DZ",
+        "origin_country": "Malta",
+        "velocity": 255.41,
+        "altitude": 9006.84,
+        "on_ground": false
+    },
+    {
+        "icao24": "3c56f0",
+        "callsign": "EWG41H",
+        "origin_country": "Germany",
+        "velocity": 195.24,
+        "altitude": 4267.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d228b",
+        "callsign": "RYR12ZM",
+        "origin_country": "Malta",
+        "velocity": 1.54,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4083d1",
+        "callsign": "LOG53MA",
+        "origin_country": "United Kingdom",
+        "velocity": 118.65,
+        "altitude": 1485.9,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cad29",
+        "callsign": "RYR69UN",
+        "origin_country": "Ireland",
+        "velocity": 204.91,
+        "altitude": 10675.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "398604",
+        "callsign": "AFR35UN",
+        "origin_country": "France",
+        "velocity": 268.83,
+        "altitude": 9898.38,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d21bc",
+        "callsign": "HYP247",
+        "origin_country": "Malta",
+        "velocity": 131.45,
+        "altitude": 2636.52,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cad51",
+        "callsign": "EAI89DF",
+        "origin_country": "Ireland",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4cad9f",
+        "callsign": "EAI43S",
+        "origin_country": "Ireland",
+        "velocity": 125.58,
+        "altitude": 3337.56,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d21ef",
+        "callsign": "RYR587A",
+        "origin_country": "Malta",
+        "velocity": 112.94,
+        "altitude": 2209.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d21fe",
+        "callsign": "RYR55CW",
+        "origin_country": "Malta",
+        "velocity": 227.27,
+        "altitude": 5791.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "a9bd9a",
+        "callsign": "AAL142",
+        "origin_country": "United States",
+        "velocity": 143.93,
+        "altitude": 1912.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cad7e",
+        "callsign": "Unknown",
+        "origin_country": "Ireland",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4cad7f",
+        "callsign": "EIN7LP",
+        "origin_country": "Ireland",
+        "velocity": 1.03,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "ae119b",
+        "callsign": "RCH3226",
+        "origin_country": "United States",
+        "velocity": 237.87,
+        "altitude": 10126.98,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2239",
+        "callsign": "RYR73QL",
+        "origin_country": "Malta",
+        "velocity": 170.32,
+        "altitude": 5646.42,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2241",
+        "callsign": "RYR2JP",
+        "origin_country": "Malta",
+        "velocity": 243.83,
+        "altitude": 9235.44,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2217",
+        "callsign": "RYR43TM",
+        "origin_country": "Malta",
+        "velocity": 158.75,
+        "altitude": 2926.08,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2218",
+        "callsign": "RYR1806",
+        "origin_country": "Malta",
+        "velocity": 208.44,
+        "altitude": 8694.42,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2226",
+        "callsign": "RYR5224",
+        "origin_country": "Malta",
+        "velocity": 126.8,
+        "altitude": 2225.04,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2222",
+        "callsign": "RYR5SR",
+        "origin_country": "Malta",
+        "velocity": 205.48,
+        "altitude": 8122.92,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2221",
+        "callsign": "RYR1051",
+        "origin_country": "Malta",
+        "velocity": 204.73,
+        "altitude": 11277.6,
+        "on_ground": false
+    },
+    {
+        "icao24": "40600e",
+        "callsign": "EZY36RW",
+        "origin_country": "United Kingdom",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4d2275",
+        "callsign": "RYR32AE",
+        "origin_country": "Malta",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4d2258",
+        "callsign": "RYR334K",
+        "origin_country": "Malta",
+        "velocity": 69.31,
+        "altitude": 76.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cabdb",
+        "callsign": "SAS2514",
+        "origin_country": "Ireland",
+        "velocity": 258.05,
+        "altitude": 10675.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d223f",
+        "callsign": "RYR3H",
+        "origin_country": "Malta",
+        "velocity": 112.17,
+        "altitude": 1234.44,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2262",
+        "callsign": "RYR2NQ",
+        "origin_country": "Malta",
+        "velocity": 185.63,
+        "altitude": 8724.9,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d2261",
+        "callsign": "RYR9FR",
+        "origin_country": "Malta",
+        "velocity": 99.97,
+        "altitude": 1257.3,
+        "on_ground": false
+    },
+    {
+        "icao24": "493281",
+        "callsign": "NJE4DQ",
+        "origin_country": "Portugal",
+        "velocity": 182.06,
+        "altitude": 3482.34,
+        "on_ground": false
+    },
+    {
+        "icao24": "39b117",
+        "callsign": "FBU72J",
+        "origin_country": "France",
+        "velocity": 235.14,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "4cac86",
+        "callsign": "RYR7CV",
+        "origin_country": "Ireland",
+        "velocity": 165.15,
+        "altitude": 3680.46,
+        "on_ground": false
+    },
+    {
+        "icao24": "4d20f3",
+        "callsign": "WMT8JP",
+        "origin_country": "Malta",
+        "velocity": 68.92,
+        "altitude": 68.58,
+        "on_ground": false
+    },
+    {
+        "icao24": "400a0e",
+        "callsign": "BAW647",
+        "origin_country": "United Kingdom",
+        "velocity": 117.43,
+        "altitude": 2827.02,
+        "on_ground": false
+    },
+    {
+        "icao24": "408347",
+        "callsign": "EXS34DA",
+        "origin_country": "United Kingdom",
+        "velocity": 224.09,
+        "altitude": 10378.44,
+        "on_ground": false
+    },
+    {
+        "icao24": "408387",
+        "callsign": "EZY65PM",
+        "origin_country": "United Kingdom",
+        "velocity": 5.92,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4d2101",
+        "callsign": "WMT6WW",
+        "origin_country": "Malta",
+        "velocity": 153.31,
+        "altitude": 2209.8,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caada",
+        "callsign": "EAI58Z",
+        "origin_country": "Ireland",
+        "velocity": 49.41,
+        "altitude": 22.86,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caad8",
+        "callsign": "EAI31Q",
+        "origin_country": "Ireland",
+        "velocity": 54.69,
+        "altitude": 388.62,
+        "on_ground": false
+    },
+    {
+        "icao24": "4081bc",
+        "callsign": "BAW515",
+        "origin_country": "United Kingdom",
+        "velocity": 97.5,
+        "altitude": 1432.56,
+        "on_ground": false
+    },
+    {
+        "icao24": "40829e",
+        "callsign": "EMC9",
+        "origin_country": "United Kingdom",
+        "velocity": 145.92,
+        "altitude": 1729.74,
+        "on_ground": false
+    },
+    {
+        "icao24": "3c5641",
+        "callsign": "BOX442",
+        "origin_country": "Germany",
+        "velocity": 255.33,
+        "altitude": 10363.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "407131",
+        "callsign": "VIR300",
+        "origin_country": "United Kingdom",
+        "velocity": 104.65,
+        "altitude": 891.54,
+        "on_ground": false
+    },
+    {
+        "icao24": "407176",
+        "callsign": "EXS1KP",
+        "origin_country": "United Kingdom",
+        "velocity": 204.94,
+        "altitude": 10668.0,
+        "on_ground": false
+    },
+    {
+        "icao24": "47ae38",
+        "callsign": "NBT50E",
+        "origin_country": "Norway",
+        "velocity": 247.25,
+        "altitude": 11582.4,
+        "on_ground": false
+    },
+    {
+        "icao24": "40709d",
+        "callsign": "HLE60",
+        "origin_country": "United Kingdom",
+        "velocity": 0.0,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4caa59",
+        "callsign": "RYR3CV",
+        "origin_country": "Ireland",
+        "velocity": 17.49,
+        "altitude": 0.0,
+        "on_ground": true
+    },
+    {
+        "icao24": "4caa53",
+        "callsign": "EAI48D",
+        "origin_country": "Ireland",
+        "velocity": 134.72,
+        "altitude": 4267.2,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caa54",
+        "callsign": "EAI94S",
+        "origin_country": "Ireland",
+        "velocity": 169.95,
+        "altitude": 4168.14,
+        "on_ground": false
+    },
+    {
+        "icao24": "4caa55",
+        "callsign": "EAI59PG",
+        "origin_country": "Ireland",
+        "velocity": 15.43,
+        "altitude": 0.0,
+        "on_ground": true
+    }
+]
